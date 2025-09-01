@@ -1,0 +1,3 @@
+First deploy the patientRigistory in to any chain 
+the add the patientrigistory deployed registor to RecordRistory deployment proccess and deploy this contract too
+then use both patientrigistory and recordregistory address to AccessManager deployment then deploy this file too 
